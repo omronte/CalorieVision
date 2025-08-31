@@ -1,0 +1,16 @@
+# Ignore selected directories and folders
+.virtual_documents/
+.ipynb_checkpoints/
+from_kaggle/
+Food\ Datasets/*/**
+main/models
+main/metrics_data
+main/temp
+main/*.json
+
+# Don't ignore .gitignore and *.ipynb files
+!.gitignore
+!*.ipynb
+!Food\ Datasets/*/*.md
+!Food\ Datasets/USDA-FNDDS/*.xlsx
+Food\ Datasets/USDA-FNDDS/cleaned_food_category.txt
