@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Change to project root directory
    ```
-   cd CALORIEVISION
+   cd CalorieVision
    ```
 4. Create new environment with environment.yml
    ```
