@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/omronte/CalorieVision">
-    <img src="images/CalorieVision.png" alt="Logo" width="120" height="120" style="object-fit: contain;"/>
+    <img src="images/CalorieVision.png" alt="Logo" width="180" height="120" style="object-fit: contain;"/>
 
   </a>
 
@@ -61,7 +61,6 @@ This repository showcase the development of the deep learning model used in the 
 
 To get a local copy up and running follow these simple example steps.
 
-
 ### Installation
 
 1. Open Anaconda Prompt
@@ -82,7 +81,6 @@ To get a local copy up and running follow these simple example steps.
    conda activate PY38-TF28
    ```
 6. Navigate to _Food Datasets_ subdirectory and follow the instructions from each READMEs in each further subdirectory to set up the required datasets.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
