@@ -10,7 +10,7 @@
 
   <h1></h1>
   <p align="center">
-    Food Ingredients Recognition and Calorie Estimation
+    <B> Food Ingredients Recognition and Calorie Estimation <B>
     <br />
     <br />
   </p>
