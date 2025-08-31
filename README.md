@@ -55,34 +55,6 @@ This repository showcase the development of the deep learning model used in the 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Installation
-
-1. Open Anaconda Prompt
-2. Clone the repo
-   ```
-   git clone https://github.com/omronte/CalorieVision.git
-   ```
-3. Change to project root directory
-   ```
-   cd CalorieVision
-   ```
-4. Create new environment with environment.yml
-   ```
-   conda env create -f environment.yml
-   ```
-5. Activate the environment
-   ```
-   conda activate PY38-TF28
-   ```
-6. Navigate to _Food Datasets_ subdirectory and follow the instructions from each READMEs in each further subdirectory to set up the required datasets.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
