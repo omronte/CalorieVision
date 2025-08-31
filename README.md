@@ -60,9 +60,6 @@ This repository showcase the development of the deep learning model used in the 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-- [Anaconda Distribution](https://docs.anaconda.com/anaconda/install/index.html)
 
 ### Installation
 
@@ -85,7 +82,6 @@ To get a local copy up and running follow these simple example steps.
    ```
 6. Navigate to _Food Datasets_ subdirectory and follow the instructions from each READMEs in each further subdirectory to set up the required datasets.
 
-7. _(Optional)_ Set up GPU by installing [CUDA Toolkit 11.2](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN SDK 8.1.0](https://developer.nvidia.com/cudnn) or follow [the TensorFlow guide](https://www.tensorflow.org/install/pip).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,14 +114,6 @@ Directory : **main**
 
 <br></br>
 In summary, the installation steps should set up everything including the datasets. All there is left is executing the **build_model.ipynb** to train the proposed deep learning model.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
