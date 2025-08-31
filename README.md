@@ -4,7 +4,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/omronte/CalorieVision">
-    <img src="images/CalorieVision.png" alt="Logo">
+    <img src="images/CalorieVision.png" alt="Logo" width="120" height="120" style="object-fit: contain;"/>
+
   </a>
 
   <h1></h1>
